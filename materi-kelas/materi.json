@@ -1,0 +1,28 @@
+{
+    "title":"biodata santri",
+    "total":4,
+    "status_santri": true,
+    "status_lulus": false,
+    "pelajaran":["mtk","b.arab","b.indo","IT"],
+    "surah":[
+        {
+            "no":1,
+            "nama":"al-fatihah",
+            "ayat":7,
+            "turun":"makkah"
+        },
+        {
+            "no":2,
+            "nama":"al-baqorah",
+            "ayat":286,
+            "turun":"madinah"
+        },
+        {
+            "no":3,
+            "nama":"al-imron",
+            "ayat":174,
+            "turun":"makkah"
+            
+        }
+    ]
+}
