@@ -8,5 +8,5 @@ print("BELAJAR GIT")
 #git push -u origin main
 #--- cara nambah sekali banyak file---
 #git add.
-#git commit -m
-#git push -u
+#git commit -m "terserah"
+#git push origin main
