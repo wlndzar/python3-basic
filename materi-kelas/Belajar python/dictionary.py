@@ -4,7 +4,7 @@ game_zaky = {'minecraf','roblox'}
 game_azka.add('minecraf')
 game_zaky.add('roblox')
 game_azka.remove('valorant')
-=
+
 print("game_azka:",game_azka)
 print("game_zaky:",game_zaky)
 game_gabungan = game_azka | game_zaky # | -> (or) atau
